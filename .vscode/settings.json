@@ -1,4 +1,6 @@
 {
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
   "flow.useNPMPackagedFlow": true,
   "javascript.validate.enable": false
 }
