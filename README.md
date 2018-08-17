@@ -9,6 +9,11 @@ Here's a list of technologies included in this starter and why they're included:
 1. React Native (obviously)
 1. Redux
 
+# Running for Android
+
+- Download/Install Android Studio
+- Open the android folder in Android Studio
+
 ## Recreating
 
 You can recreate this repo entirely by doing the following:
